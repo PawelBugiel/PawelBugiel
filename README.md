@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- [Projekt 1](./readmes/my-computer-passion.md) - Krótki opis projektu.
+
+
 
 
 
