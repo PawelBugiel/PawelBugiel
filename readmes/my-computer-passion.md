@@ -5,7 +5,6 @@
 ### My computer passion
 
 [1 Intro](#Intro)  
-
 [2 Sprzęt komputerowy](#Sprzęt-komputerowy)  
 [3 Grafika komputerowa](#Grafika-komputerowa)  
 [4 Decyzja](#Decyzja)  
@@ -86,36 +85,9 @@ komuś z czymś – modelowanie obiektów użytkowych, retusz naprawianie zniszc
 <br><br>
 Natomiast tworzenie oprogramowania stawiam jako swój cel zawodowy.
 <br><br>
-Dlaczego tak?
+Dlaczego tak? [-> Ponieważ <-](./actual-target.md)
 <br>
-Ponieważ przechodząc przez życie, w
-kontekście pasjonowania się komputerami, doszedłem do wniosku że co chwila potrzebne było mi programowanie, w takiej czy
-innej formie. To ono daje mi największą dozę elastyczności, kreatywności i tworzenia czegoś działającego
-zgodnie z moimi potrzebami. I tak jest do dziasiaj. To więc zadecydowało o chęci zajmowania się tworzeniem
-oprogramowania zwodowo.
-<br><br>
-Lubię tworzyć dla potrzeb ludzi, gdy z tego korzystają i przynosi im to realną korzyść.
-<br><br>
-Początkowo chciałem szybko nauczyć się składni Javy i od razu wskoczyć w branżę. Jednak z biegiem czasu, podczas poznawania
-coraz to nowych powiązanych z programownaiem aspektów, mój charakter nie pozwalał mi przejść ze zbyt dużą dozą
-abstrakcji w tym co ma mnie zawodowo zajmować. Chciałem być jak najbardziej świadomy tego co, skąd się bierze, z czym się łączy i dlaczego
-To w moim mniemaniu zaowocuje późniejszym, bardziej szerszym i mądrzejszym sposobem podchodzenia do wykonywanej pracy.
 
-Moim zdaniem aby być w czymś dobrym trzeba poznawać, posiadać odpowiednio szeroki horyzont rozumienia tego co się robi.
-pozostawać ciekawym, starać się myśleć do przodu, planować i próbować przewidywać, obierać różne
-perspektywy, poziomy patrzenia na różne sytuacje - zwane czasami problemami.
-
-To spowodowało że przestałem się spieszyć, zacząłem wałkować te same tematy na różne sposoby, równocześnie czytać,
-słuchać i oglądać na tematy związane. Od tego jak działa internet, przez bazdy danych, algorytmy, dobre praktyki, czysty
-kod, pipeline, prowadzenie projektów, systemy kontroli wersji, schematy UML, CICD, usługi cloudowe, frameworki,
-paradygmaty programowania, architekturę oprogramowania, wzorce projektowe, szybko zmieniające się technologie oraz
-wydajność sprzętowa.  
-Nieraz czułem się przytłoczony ogromem informacji, technologii, a także szybkością zachodzących zmian.  
-Dziś z perspektywy czasu sądzę że nie ma idealnego sposobu nauki programowania. Istnieje wiele zależności, zmiennych.
-Ilość informacji tylko się zwiększa. Część z tych informacji z którymi się zapoznałem uleciała.
-Bardzo chętnie podejmę się pracy.
-Ważna jest decyzja czy na pewno tego chcę, i mniej więcej w którym chcę iść w przyszłości kierunku.
-Reszta wyjdzie w praniu i dążeniach.
 
 > #### A bit of chronological details
 
