@@ -1,4 +1,4 @@
-### Read me
+### Read about me
 
 1. [Computer passion](./readmes/my-computer-passion.md) - A short story about my computer passion.
 <br><br>
