@@ -1,6 +1,11 @@
 [<< Back to home page](../README.md)
 
 #### My actual target
+
+
+Moim aktualnym celem jest zawodowe zajęcie się tworzeniem oprogramowania.  
+Cel ten wynika z poniższego krótkiego podsumowania. 
+___
 Przechodząc przez życie - z perspektywy pasjonowania się komputerami - doszedłem do wniosku, że co chwila potrzebne było mi programowanie, w takiej czy
 innej formie. To ono daje mi największą dozę kreatywności, elastyczności, tworzenia czegoś działającego
 zgodnie z moimi potrzebami. I tak jest do dzisiaj. To więc zadecydowało o chęci zajmowania się tworzeniem
@@ -17,7 +22,7 @@ Moim zdaniem, aby być w czymś dobrym trzeba poznawać, posiadać odpowiednio s
 pozostawać ciekawym, starać się myśleć do przodu, planować i próbować przewidywać, obierać różne
 perspektywy, poziomy patrzenia na różne sytuacje (zwane czasem problemami).
 
-To spowodowało, że przestałem się spieszyć, a zacząłem wałkować powiązane, różne tematy, na różne sposoby, równocześnie czytać,
+To spowodowało, że przestałem się spieszyć, a zacząłem poznawać powiązane, różne tematy, na różne sposoby. Równocześnie czytać,
 słuchać, oglądać i pisać. Od tego jak działa internet, bazdy danych, algorytmy, dobre praktyki, czysty
 kod, pipeline, prowadzenie projektów, systemy kontroli wersji, schematy UML, CICD, usługi cloudowe, frameworki,
 paradygmaty programowania, architektura oprogramowania, wzorce projektowe, szybko zmieniające się technologie oraz
@@ -28,9 +33,7 @@ Dziś z perspektywy czasu sądzę, że nie ma idealnego sposobu nauki programowa
 
 Poza tym, dla mnie ważna jest decyzja czy na pewno tego chcę i mniej więcej w którym chcę iść w przyszłości kierunku. Takie decyzje podjąłem.
 
-Bardzo chętnie podejmę się pracy software developera. 
- 
-Reszta wyjdzie w praniu i dążeniach ;)
+Bardzo chętnie podejmę się pracy jako software developer.
 
 [<< Back to home page](../README.md)
 

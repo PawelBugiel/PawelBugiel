@@ -8,7 +8,7 @@
 
 <details>
 
-<summary>What do I learn </summary>
+<summary>Technologies, tools </summary>
 
 <img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/java_6x3.png?raw=true" alt="Java" width="11%">
 <img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/spring_6x3.png?raw=true" alt="Spring Boot" width="11%">
@@ -18,7 +18,7 @@
 <img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/mysql_6x3.png?raw=true" alt="MySQL" width="11%">
 <img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/h2_6x3.png?raw=true" alt="H2 in-memory database" width="8%">
 <br>
-<img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/junit_6x3.png?raw=true" alt="JUnit" width="11%">  
+<img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/junit_6x3.png?raw=true" alt="JUnit" width="9%">  
 <img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/mockito_6x3.png?raw=true" alt="Mockito" width="11%"> 
 <img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/jcoco_6x3.png?raw=true" alt="Jcoco" width="11%">
 <br>
@@ -29,23 +29,7 @@
 <img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/openapi_swagger_6x3.png?raw=true" alt="Swagger" width="11%">
 <img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/postman_6x3.png?raw=true" alt="Postman" width="11%">
 <br>
-<img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/open_weather_6x3.png?raw=true" alt="Api" width="11%"> 
+
+[//]: # (<img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/open_weather_6x3.png?raw=true" alt="Api" width="11%"> )
 
 </details>
-
-
-
-<!--
-**PawelBugiel/PawelBugiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -2,20 +2,20 @@
 
 ### My computer passion
 
-[1 Intro](#Intro)  
-[2 Sprzęt komputerowy](#Sprzęt-komputerowy)  
-[3 Grafika komputerowa](#Grafika-komputerowa)  
-[4 Decyzja](#Decyzja)  
-[5 Inne konteksty używania komputerów](#Inne-konteksty-używania-komputerów)  
-[6. A bit of chronological details](#A-bit-of-chronological-details)
+[1. Intro](#Intro)  
+[2. Computer hardware](#Computer-hardware)  
+[3. Computer graphic](#Computer-graphic)  
+[4. Computer programming](#Computer-programming)  
+[5. Other contexts of computer use](#Other-contexts-of-computer-use)  
+[6. A decision](#A-decision)  
+[7. Some chronological details](#Some-chronological-details)
 
 #### Intro
 
-Poniżej wycięte z mojego życia wybrane części, przez które chcę po krótce opisać siebie.
-<br>
-Od dawna interesują mnie w różnym stopniu, równocześnie :
+Below are selected parts of my life through which I want to briefly describe myself.
+<br><br>
 
-> #### Sprzęt komputerowy
+> #### Computer hardware
 
 - chętnie sam rozbudowywałem PC i budowałem je od podstaw
 - konfigurowałem małe sieci LAN (epizodycznie)
@@ -24,7 +24,7 @@ Od dawna interesują mnie w różnym stopniu, równocześnie :
 
   <br>
 
-> #### Grafika komputerowa
+> #### Computer graphic
 
 - zarówno rastrowa - Corel PhotoPaint, Adobe PhotoShop, Gimp, MS Paint
 - wektorowa - Corel Draw
@@ -46,11 +46,22 @@ wykonać.* <br>
 *jak w tworzeniu aplikacji programistycznych – struktura projektu, obiekty typu boolean, "obiekty abstrakcyjne”,* <br>
 *dziedziczenie, biblioteki zewnętrzne, parametryzacja obiektów, modułowość, model reuse, frameworki.*
 
-*Okej. No to teraz dalej.* <br><br>
+*Okej. No to teraz dalej.* 
+<br><br>
 
+> #### Computer programming
 
+- na samym początku z czystej ciekawości
+- później nadal z ciekawości - łączenie HTML, DHTML, CSS z grafiką komputerową
+- później w szkołach i na studiach, tym razem już bardziej poważnie
+- następnie łączenie Pythona z programem Blender 3D, aby uzyskać dodatkowe autorskie funkcjonaloności - faktyczne
+  praktyczne wykorzystywanie programowania na własny użytek
+- aż do obecnego zainteresowania programowaniem w kontekście biznesowym – od brania udziału w tworzeniu nowych
+  funkcjonalności w obecnej pracy, po chęć przebranżowienia się. <br>  Praca w obecnej firmie tylko dolała oliwy do
+  ognia :)
+<br> <br>
 
-> #### Inne konteksty używania komputerów
+> #### Other contexts of computer use
 
 - do znudzenia ustawiałem wszelkie telewizory, dekodery satelitarne, magnetowidy i tym podobne sprzęty u rodziny
 - eksperymentalnie bawiłem się programami do tworzenia muzyki : Fast Tracker, FruityLoops
@@ -62,22 +73,9 @@ wykonać.* <br>
   użyteczności, wykorzystania do celów prywatnych i komercyjnych.
 - ostatnie ciekawe dla mnie AI to Google Gemini
 
-  <br>
-
-> #### Programowanie komputerowe :
-
-- na samym początku z czystej ciekawości
-- później nadal z ciekawości - łączenie HTML, DHTML, CSS z grafiką komputerową
-- później w szkołach i na studiach, tym razem już bardziej poważnie
-- następnie łączenie Pythona z programem Blender 3D, aby uzyskać dodatkowe autorskie funkcjonaloności - faktyczne
-  praktyczne wykorzystywanie programowania na własny użytek
-- aż do obecnego zainteresowania programowaniem w kontekście biznesowym – od brania udziału w tworzeniu nowych
-  funkcjonalności w obecnej pracy, po chęć przebranżowienia się. <br>  Praca w obecnej firmie tylko dolała oliwy do
-  ognia :)
-
 <br>
 
-> #### Decyzja
+> #### A decision
 
 Jakiś czas temu podjąłem decyzję, że grafiką komputerową zajmować się będę hobbystycznie, w ramach relaksu czy pomocy
 komuś z czymś – modelowanie obiektów użytkowych, retusz naprawianie zniszczonych zdjęć, modyfikacje modeli do wydruków
@@ -85,11 +83,12 @@ komuś z czymś – modelowanie obiektów użytkowych, retusz naprawianie zniszc
 <br><br>
 Natomiast tworzenie oprogramowania stawiam jako swój cel zawodowy.
 <br><br>
-Dlaczego tak? [-> Ponieważ <-](./actual-target.md)
+Why so ? Because I set a new goal for myself -> [A new goal <-](./actual-target.md)
+<br>
 <br>
 
 
-> #### A bit of chronological details
+> #### Some chronological details
 
 <table>
   <thead>
