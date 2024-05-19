@@ -3,7 +3,7 @@
 ### People who taught me the most
 
 - [Tim Buchalka (Learn Programming Academy)](https://www.timbuchalka.com/)
-  - A great pro, 40 years experienced Australian guy. 
+  - A great, 40 years experienced Australian guy. 
   - I recommend his course [Java 17 Masterclass](https://www.udemy.com/share/101Wdq3@5-6JiX32tqcqFrblDvGj75-uqlBJHKzzRqfpuTf-gqVUfoWKToKZoyyQxE_eS-ClGw==/)
   <br>
   It's a pity that the older version of the linked course is no longer available - it was humorous :)
@@ -11,10 +11,7 @@
   
 - [Navin Reddy (Telusko)](https://telusko.com/) 
   - For me, this Indian friend explains the concepts in the most understandable way.
-  <br>
-  *"...Hello Aliens XD 🖖 ... "*
-
-    <br>
+  <br><br>
 
 - [Mateusz Dąbrowski (nullpointerexception)](https://nullpointerexception.pl/)
   - Kawał porządnej, polskiej roboty w wykonaniu Mateusza
@@ -22,8 +19,6 @@
   
 - [Mama Samba Briama Djalo aka Nelson (AmigosCode)](https://www.amigoscode.com/) 
   - Along with the great content, Nelson provides some of the best diagrams.
-  <br>
-*"What's going on guys. Salam alejkum. Welcome to Amigoscode.. "*
     <br><br>
 
 - [Ranga Karanam (in28Minutes)](https://www.in28minutes.com/) 
@@ -32,9 +27,7 @@
     <br><br>
 
 - [Caleb Curry](https://www.calebcurry.com/)
-  - One of the very first teacher that I have found interesting. Mainly because of his passion that flows from him all time.
-    <br>
-    It seems that he started to create YouTube videos at a young age.
+  - One of the very first teacher that I have found interesting. Mainly because of his young passion that flows from him all time.
     <br><br>
   
 - [Chad Darby (Luv2Code)](https://luv2code.com/) 

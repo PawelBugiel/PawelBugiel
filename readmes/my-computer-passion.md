@@ -1,6 +1,4 @@
-
 [<< Back to home page](../README.md)
-
 
 ### My computer passion
 
@@ -12,9 +10,10 @@
 [6. A bit of chronological details](#A-bit-of-chronological-details)
 
 #### Intro
-Poniżej wycięte z mojego życia wybrane części, przez które chcę po krótce opisac siebie. 
-<br> 
-Od dosyć dawna interesują mnie w różnym stopniu, równocześnie. 
+
+Poniżej wycięte z mojego życia wybrane części, przez które chcę po krótce opisać siebie.
+<br>
+Od dawna interesują mnie w różnym stopniu, równocześnie :
 
 > #### Sprzęt komputerowy
 
@@ -36,7 +35,8 @@ Od dosyć dawna interesują mnie w różnym stopniu, równocześnie.
 *Tu dodam kilka słów.*<br>
 *W grafice 3D najbardziej interesuje mnie to jak coś wymodelować, jak rozwiązywać problemy topologiczne,
 „konstrukcyjne”.* <br>
-*Modele, vertexy, edge, polygony, unikanie ngon-ów i pole-sów, quadyfikacja, face, normal, edge loopy – to jest to.* <br>  
+*Modele, vertexy, edge, polygony, unikanie ngon-ów i pole-sów, quadyfikacja, face, normal, edge loopy – to jest
+to.* <br>  
 *Aspekt wizualny – kolory, światło, cień, tekstury, kompozycja – poznałem z grubsza żeby wiedzieć jak to ewentualnie
 wykonać.* <br>
 *Raczej nie jestem osobą obdarzoną zmysłem estetycznym.*
@@ -60,7 +60,7 @@ wykonać.* <br>
 - instalowałem i używałem Linux ( mało )
 - doświadczanie z AI od początku udostęnienia okienkowej wersji chat GPT - listopad 2022. Testowanie możliwości,
   użyteczności, wykorzystania do celów prywatnych i komercyjnych.
-- ostatnie ciekawe dla mnie AI to Google Gemini - Vertex AI
+- ostatnie ciekawe dla mnie AI to Google Gemini
 
   <br>
 
@@ -91,21 +91,146 @@ Dlaczego tak? [-> Ponieważ <-](./actual-target.md)
 
 > #### A bit of chronological details
 
-| Year           | Hardware                                                                         | What                                                                                                                                            | Where                                          | Achievements                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-|----------------|----------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1993           | Commodore C64 <br> CPU : 0.985 MHz <br> RAM : 64 kB RAM                          | BASIC                                                                                                                                           | At home                                        | * Simple versions of a calculator <br>* Several pages of code from the book, carefully copied in about 2 hours, resulting in several moving pixels giving the impression of the shape of a face. Approximate animation duration: 3 seconds. Trajectory from the upper left corner of the screen to the lower right <br>* A letter or email written and "recorded" on a magnetic cassette, which was given to a friend to open and read at home. <br>* After discovering a way to trigger a bug in some games, I looked through the code and tried to modify what I could identify. <br>* The most interesting success is the modified game "Poker po polsku". The content of texts spoken by computer players during the game has been modified. <br>* Pixel, colorful drawings created using the keyboard - cursor position |
-| 1998           | PC <br> CPU : AMD 90 MHz <br> RAM : 8 MB                                         | HTML <br> DHTML <br> CSS                                                                                                                        | At home                                        | non-commercial, private websites                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| 2003           | PC <br> CPU : AMD Duron 700 MHz <br> RAM : 128 MB                                | Delphi <br> Turbo Pascal                                                                                                                        | At Post-Secondary school <br> and <br> At home | * Passed a school subject <br>* first contact with more advanced programming languages                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| 2003           | PC <br> CPU : AMD Duron 700 MHz <br> RAM : 128 MB                                | HTML <br> DHTML <br> CSS                                                                                                                        | School internships                             | Creation - from scratch, mostly in a windows notebook, because I like to remember the syntaxes  - the first official website for Primary School No. 28 in Wodzisław Śląski. It was officially "deployed" on the server by the school's IT specialist                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| 2005           | unknown                                                                          | Assembler <br> C++                                                                                                                              | At college                                     | * passed a college subject <br>* further increasing awareness of the different levels of programming languages                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| 2011           | PC <br> CPU : Intel Core Duo 2 T6500 2.1 GHz <br> 2 cores <br> RAM : 4GB DDR2    | --                                                                                                                                              | --                                             | --                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| 2013 - 2019    | unknown                                                                          | Excel Formula Language <br> VBA                                                                                                                 | At work                                        | Achievements                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| 2020           | Laptop <br> CPU : Intel Core i7-8750H 2,1 GHz <br> 8 cores <br> RAM : 24GB DDR4  | Java <br> HTML  <br> CSS  <br> XML <br> Python                                                                                                  | At home                                        | Achievements                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| 2023 until now | Laptop <br> CPU : Intel Core i7-13700H 2,4 GHz <br>14 cores <br> RAM : 16GB DDR5 | Java <br> Spring <br> Spring Boot <br> Hibernate <br> Lombok <br> SQL <br> JSON <br> Junit <br> Mockito <br> JavaScript <br> Markdown <br> HTML | At home                                        | Achievements                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+<table>
+  <thead>
+    <tr>
+      <th>Year</th>
+      <th>Hardware</th>
+      <th>What</th>
+      <th>Where</th>
+      <th>Achievements</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1993</td>
+      <td>Commodore C64 <br> CPU : 0.985 MHz <br> RAM : 64 kB</td>
+      <td>BASIC</td>
+      <td>At home</td>
+      <td>
+        <ul>
+          <li>Simple versions of a calculator</li>
+          <br>
+          <li>Several pages of code from the book, carefully copied in about 2 hours, resulting in several moving pixels giving the impression of the shape of a face. Approximate animation duration: 3 seconds. Trajectory from the upper left corner of the screen to the lower right</li>
+          <br>
+          <li>A letter, or rather a kind of "email", wrote and then persisted on a magnetic tape, which my friend received to open and read at home.</li>
+          <br>
+          <li>Discovering key combinations to interrupt the game with the ability to view and modify the source code. I looked through the code and modified what I could identify. Then I restarted the game with my changes (It only worked in some games)</li>
+          <br>
+          <li>The most funny success was the modified game "Poker po polsku", which had a speech synthesizer. The content of texts spoken by computer during gameplay has been modified.
+            Because of my age the new texts were incredible poetic ;)</li>
+          <br>
+          <li>Pixel, colorful drawings created using the keyboard and a cursor position</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>1998</td>
+      <td>PC <br> CPU : AMD 90 MHz <br> RAM : 8 MB</td>
+      <td>HTML <br> DHTML <br> CSS</td>
+      <td>At home</td>
+      <td>
+        <ul>
+          <li>non-commercial, private websites</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2003</td>
+      <td>PC <br> CPU : AMD Duron 700 MHz <br> RAM : 128 MB</td>
+      <td>Delphi <br> Turbo Pascal</td>
+      <td>At a post-secondary school <br> and <br> At home</td>
+      <td>
+        <ul>
+          <li>Passed a school subject</li>
+          <br>
+          <li>First contact with more advanced programming languages</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2003</td>
+      <td>PC <br> CPU : AMD Duron 700 MHz <br> RAM : 128 MB</td>
+      <td>HTML <br> DHTML <br> CSS</td>
+      <td>School internships</td>
+      <td>
+        <ul>
+          <li>Creation of the first official website for Primary School No. 28 in Wodzisław Śląski. It was officially deployed on the server by the school's IT specialist.  Initiative was mine and the project was built from scratch, mostly in a Windows Notepad, because I liked to memorizing the syntax.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2005</td>
+      <td>unknown</td>
+      <td>Assembler <br> C++</td>
+      <td>At college</td>
+      <td>
+        <ul>
+          <li>Passed a college subject</li>
+          <br>
+          <li>Further increasing awareness of the different levels of programming languages</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2011</td>
+      <td>Laptop <br> CPU : Intel Core Duo 2 T6500 2.1 GHz <br> 2 cores <br> RAM : 4GB DDR2</td>
+      <td>--</td>
+      <td>--</td>
+      <td>
+        <ul>
+          <li>here I only mention my first laptop ;)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2013 - 2019</td>
+      <td>Various PCs and Laptops</td>
+      <td>Excel Formula Language <br> VBA</td>
+      <td>At work</td>
+      <td>
+        <ul>
+        <li>Moving from paper and semi-automatic spreadsheets, through Excel macros, temporary "cloud" solutions, to cooperation with programmers in order to create better solutions for the company's business goals</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2020</td>
+      <td>Laptop <br> CPU : Intel Core i7-8750H 2,1 GHz <br> 8 cores <br> RAM : 24GB DDR4</td>
+      <td>Java <br> HTML <br> CSS <br> XML <br> Python</td>
+      <td>At home</td>
+      <td>
+        <ul>
+          <li>small educational applications in Java</li>
+          <br>
+          <li>XML, HTML, CSS rarely used for small configuration files or documents</li>
+          <br>
+          <li>Python – small scripts to create your own functionalities in Blender, for modeling 3D graphics. I didn't learn Python.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2023 until now</td>
+      <td>Laptop <br> CPU : Intel Core i7-13700H 2,4 GHz <br>14 cores <br> RAM : 16GB DDR5</td>
+      <td>Java <br> Spring <br> Spring Boot <br> Hibernate <br> Lombok <br> SQL <br> JSON <br> Junit <br> Mockito <br> JavaScript <br> HTML <br> Markdown</td>
+      <td>At home</td>
+      <td>
+        <ul>
+          <li>Java, Spring, Spring Boot, Hibernate, Lombok, SQL, JSON, Junit, Mockito for self-development and writing CRUD training applications </li>
+          <br>
+          <li>JavaScript, HTML, CSS – out of curiosity, to take a look at the Vue frontend framework</li>
+          <br>
+          <li>Python – out of curiosity, combine 3D Blender with Chat GPT to obtain additional data about 3D models - for example, summing selected surfaces</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 [<< Back to home page](../README.md)
 <br><br>
-&#169; All rights and lefts reserved ;) 
+&#169; All rights and lefts reserved ;)
 <br>
 Partly⛅Cloudy™ ;)
 
