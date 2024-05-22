@@ -1,6 +1,6 @@
-[<< Back to home page](https://github.com/PawelBugiel)
+[<< Back to home page](https://github.com/PawelBugiel/PawelBugiel/blob/main/README.md)
 
-### My computer passion
+<h4 id="top-of-this-page"> My computer passion </h4>
 
 [1. Intro](#Intro)  
 [2. Computer hardware](#Computer-hardware)  
@@ -64,11 +64,11 @@ Okej. No to teraz dalej.*
 
 - do znudzenia ustawiałem wszelkie telewizory, dekodery satelitarne, magnetowidy i tym podobne sprzęty u rodziny
 - eksperymentalnie bawiłem się programami do tworzenia muzyki : Fast Tracker, FruityLoops
-- ms dos i inne CLI były fajne bo trzeba było pamiętać komendy
+- ms dos i inne CLI były fajne, bo trzeba było pamiętać komendy
 - interesował mnie rejestry Windows,
 - instalowałem i używałem systemy Windows od wersji 3.11
 - instalowałem i używałem Linux ( mało, to dopiero przede mną )
-- doświadczanie z AI od początku udostęnienia okienkowej wersji chat GPT - listopad 2022. Testowanie możliwości,
+- doświadczanie z AI od początku udostępnienia okienkowej wersji chat GPT - listopad 2022. Testowanie możliwości,
   użyteczności, wykorzystania do celów prywatnych i komercyjnych.
 - ostatnie ciekawe dla mnie AI to Google Gemini
 
@@ -225,15 +225,14 @@ Why so ? Because I set a new goal for myself -> [A new goal <-](./actual-target.
   </tbody>
 </table>
 
-<table style="border: 0">
-<tbody>
-  <tr>
-    <td><a href="https://github.com/PawelBugiel"><< Back to home page</a></td>
-    <td><a href="#My-computer-passion">^ Go to the top of page ^</a></td>
-  </tr>
-</tbody>
+<table border="0">
+    <tr>
+        <td><a href="https://github.com/PawelBugiel/PawelBugiel/blob/main/README.md"><< Back to home page</a></td>
+        <td><a href="#top-of-this-page">^ Go to the top of the page ^</a></td>
+        <td>&#169; All rights and lefts reserved ;)</td>
+        <td>Partly⛅Cloudy™ ;)</td>
+    </tr>
 </table>
-&#169; All rights and lefts reserved ;)
-<br>
-Partly⛅Cloudy™ ;)
+
+
 

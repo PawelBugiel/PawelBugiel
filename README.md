@@ -1,4 +1,4 @@
-### Read about me
+<h4 id="top-of-this-page">  Read about me </h4>
 
 1. [Computer passion](./readmes/my-computer-passion.md) - A short story about my computer passion.
 <br><br>
@@ -30,6 +30,12 @@
 <img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/postman_6x3.png?raw=true" alt="Postman" width="11%">
 <br>
 
-[//]: # (<img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/open_weather_6x3.png?raw=true" alt="Api" width="11%"> )
-
 </details>
+
+<table border="0">
+    <tr>
+        <td><a href="#top-of-this-page">^ Go to the top of the page ^</a></td>
+        <td>&#169; All rights and lefts reserved ;)</td>
+        <td>Partly⛅Cloudy™ ;)</td>
+    </tr>
+</table>

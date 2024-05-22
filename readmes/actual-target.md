@@ -1,15 +1,14 @@
-[<< Back to home page](https://github.com/PawelBugiel)
+[<< Back to home page](https://github.com/PawelBugiel/PawelBugiel/blob/main/README.md)
 
-#### My actual target
+<h4 id="top-of-this-page"> My actual target </h4>
 
 
 Moim aktualnym celem jest zawodowe zajęcie się tworzeniem oprogramowania.  
 Cel ten wynika z poniższego krótkiego podsumowania. 
 ___
-Przechodząc przez życie - z perspektywy pasjonowania się komputerami - doszedłem do wniosku, że co chwila potrzebne było mi programowanie, w takiej czy
-innej formie. To ono daje mi największą dozę kreatywności, elastyczności, tworzenia czegoś działającego
+Przechodząc przez życie - z perspektywy pasjonowania się komputerami - doszedłem do wniosku, że co chwila potrzebne było mi programowanie, w takiej czy innej formie. To ono daje mi największą dozę kreatywności, elastyczności, tworzenia czegoś działającego
 zgodnie z moimi potrzebami. I tak jest do dzisiaj. To więc zadecydowało o chęci zajmowania się tworzeniem
-oprogramowania zwodowo.
+oprogramowania zawodowo.
 <br><br>
 Lubię tworzyć dla potrzeb ludzi, gdy z tego korzystają i przynosi im to realną korzyść.
 <br><br>
@@ -23,17 +22,23 @@ pozostawać ciekawym, starać się myśleć do przodu, planować i próbować pr
 perspektywy, poziomy patrzenia na różne sytuacje (zwane czasem problemami).
 
 To spowodowało, że przestałem się spieszyć, a zacząłem poznawać powiązane, różne tematy, na różne sposoby. Równocześnie czytać,
-słuchać, oglądać i pisać. Od tego jak działa internet, bazdy danych, algorytmy, dobre praktyki, czysty
+słuchać, oglądać i pisać. Od tego jak działa internet, bazy danych, algorytmy, dobre praktyki, czysty
 kod, pipeline, prowadzenie projektów, systemy kontroli wersji, schematy UML, CICD, usługi cloudowe, frameworki,
 paradygmaty programowania, architektura oprogramowania, wzorce projektowe, szybko zmieniające się technologie oraz
 wydajność sprzętowa.  
-To niejednokrotnie mnie przerastało, czułem się przytłoczony ogromem informacji, technologii, a także szybkością zachodzących zmian.  Ilość informacji tylko się zwiększa. Zdaję sobie sprawę, że część informacji, które chłonąłem, uleciała bezpowrotnie. Natomaist sądzę też że długi czas jaki poświeciłem na sprawdzaniu siebie w tej nowej roli, zmienił na stałe niektóre z moich sposobów patrzenia na świat. 
+To niejednokrotnie mnie przerastało, czułem się przytłoczony ogromem informacji, technologii, a także szybkością zachodzących zmian.  Ilość informacji tylko się zwiększa. Zdaję sobie sprawę, że część informacji, które chłonąłem, uleciała bezpowrotnie. Natomiast sądzę też, że długi czas jaki poświeciłem na sprawdzaniu siebie w tej nowej roli, zmienił na stałe niektóre z moich sposobów patrzenia na świat. 
 
 Dziś z perspektywy czasu sądzę, że nie ma idealnego sposobu nauki programowania. Istnieje wiele zależności, zmiennych. Powtórzę często przytaczany banał - "najważniejsza jest wytrwałość".
 
-Poza tym, dla mnie ważna jest decyzja czy na pewno tego chcę i mniej więcej w którym chcę iść w przyszłości kierunku. Takie decyzje podjąłem.
+Poza tym, dla mnie ważna jest decyzja czy na pewno tego chcę i mniej więcej, w którym chcę iść w przyszłości kierunku. Takie decyzje podjąłem.
 
 Bardzo chętnie podejmę się pracy jako software developer.
 
-[<< Back to home page](../README.md)
-
+<table border="0">
+    <tr>
+        <td><a href="https://github.com/PawelBugiel/PawelBugiel/blob/main/README.md"><< Back to home page</a></td>
+        <td><a href="#top-of-this-page">^ Go to the top of the page ^</a></td>
+        <td>&#169; All rights and lefts reserved ;)</td>
+        <td>Partly⛅Cloudy™ ;)</td>
+    </tr>
+</table>
