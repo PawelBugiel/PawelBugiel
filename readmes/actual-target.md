@@ -1,4 +1,4 @@
-[<< Back to home page](../README.md)
+[<< Back to home page](https://github.com/PawelBugiel)
 
 #### My actual target
 

@@ -1,4 +1,4 @@
-[<< Back to home page](../README.md)
+[<< Back to home page](https://github.com/PawelBugiel)
 
 ### My computer passion
 
@@ -29,24 +29,23 @@ Below are selected parts of my life through which I want to briefly describe mys
 - zarówno rastrowa - Corel PhotoPaint, Adobe PhotoShop, Gimp, MS Paint
 - wektorowa - Corel Draw
 - prezentacje, montaż video – DaVinci Resolve, Power Point
-- animacje : PhotoPaint, 3DS Max Studio, Blender
-- jak i modelowanie 3D - od Vue d’Esprit, przezTerragen, Maya, ZBrush, 3DS Max Studio, po Blender
+- animacje : Corel PhotoPaint, 3DS Max Studio, Blender
+- jak i modelowanie 3D - od Vue d’Esprit, przez Terragen, Maya, ZBrush, 3DS Max Studio, po opensource-owy Blender
 
 *Tu dodam kilka słów.*<br>
-*W grafice 3D najbardziej interesuje mnie to jak coś wymodelować, jak rozwiązywać problemy topologiczne,
-„konstrukcyjne”.* <br>
-*Modele, vertexy, edge, polygony, unikanie ngon-ów i pole-sów, quadyfikacja, face, normal, edge loopy – to jest
-to.* <br>  
-*Aspekt wizualny – kolory, światło, cień, tekstury, kompozycja – poznałem z grubsza żeby wiedzieć jak to ewentualnie
-wykonać.* <br>
-*Raczej nie jestem osobą obdarzoną zmysłem estetycznym.*
+*W grafice 3D najbardziej interesuje mnie to jak stworzyć poprawny, łatwo modyfikowalny model trójwymiarowy, jak
+rozwiązywać problemy topologiczne, „konstrukcyjne”. <br>
+Tak więc najczęściej zajmowały mnie: vertex, edge, polygony, unikanie ngon-ów i pole-sów, quadyfikacja, face, normal,
+edge loopy.<br>
+Aspekt wizualny - kolory, światła, cienie, teksturowanie, kompozycja – poznałem z grubsza, żeby wiedzieć jak to
+ewentualnie wykonać. <br>
+Raczej nie jestem osobą obdarzoną zmysłem estetycznym.
 <br><br>
-*Ponadto dodam, że* <br>
-*znajduję wiele tych samych lub bardzo zbliżonych konceptów w tworzeniu trójwymiarowych projektów graficznych* <br>
-*jak w tworzeniu aplikacji programistycznych – struktura projektu, obiekty typu boolean, "obiekty abstrakcyjne”,* <br>
-*dziedziczenie, biblioteki zewnętrzne, parametryzacja obiektów, modułowość, model reuse, frameworki.*
-
-*Okej. No to teraz dalej.* 
+Ponadto dodam, że <br>
+znajduję wiele tych samych lub bardzo zbliżonych konceptów w tworzeniu trójwymiarowych projektów graficznych
+jak w tworzeniu aplikacji programistycznych – struktura projektu, obiekty typu boolean, "obiekty abstrakcyjne”,
+dziedziczenie, biblioteki zewnętrzne, parametryzacja obiektów, modułowość, model reuse, frameworki. <br>
+Okej. No to teraz dalej.*
 <br><br>
 
 > #### Computer programming
@@ -59,16 +58,16 @@ wykonać.* <br>
 - aż do obecnego zainteresowania programowaniem w kontekście biznesowym – od brania udziału w tworzeniu nowych
   funkcjonalności w obecnej pracy, po chęć przebranżowienia się. <br>  Praca w obecnej firmie tylko dolała oliwy do
   ognia :)
-<br> <br>
+  <br> <br>
 
 > #### Other contexts of computer use
 
 - do znudzenia ustawiałem wszelkie telewizory, dekodery satelitarne, magnetowidy i tym podobne sprzęty u rodziny
 - eksperymentalnie bawiłem się programami do tworzenia muzyki : Fast Tracker, FruityLoops
 - ms dos i inne CLI były fajne bo trzeba było pamiętać komendy
-- interesował mnie rejestry windowsa,
+- interesował mnie rejestry Windows,
 - instalowałem i używałem systemy Windows od wersji 3.11
-- instalowałem i używałem Linux ( mało )
+- instalowałem i używałem Linux ( mało, to dopiero przede mną )
 - doświadczanie z AI od początku udostęnienia okienkowej wersji chat GPT - listopad 2022. Testowanie możliwości,
   użyteczności, wykorzystania do celów prywatnych i komercyjnych.
 - ostatnie ciekawe dla mnie AI to Google Gemini
@@ -79,7 +78,7 @@ wykonać.* <br>
 
 Jakiś czas temu podjąłem decyzję, że grafiką komputerową zajmować się będę hobbystycznie, w ramach relaksu czy pomocy
 komuś z czymś – modelowanie obiektów użytkowych, retusz naprawianie zniszczonych zdjęć, modyfikacje modeli do wydruków
-3D. Czasu poświęcany na grafikę jest w znacznej tendencji spadkowej.
+3D.
 <br><br>
 Natomiast tworzenie oprogramowania stawiam jako swój cel zawodowy.
 <br><br>
@@ -215,7 +214,7 @@ Why so ? Because I set a new goal for myself -> [A new goal <-](./actual-target.
       <td>At home</td>
       <td>
         <ul>
-          <li>Java, Spring, Spring Boot, Hibernate, Lombok, SQL, JSON, Junit, Mockito for self-development and writing CRUD training applications </li>
+          <li>Java, Spring, Spring Boot, Hibernate, Lombok, SQL, JSON, Junit, Mockito -  self-development and to write CRUD training applications </li>
           <br>
           <li>JavaScript, HTML, CSS – out of curiosity, to take a look at the Vue frontend framework</li>
           <br>
@@ -226,9 +225,14 @@ Why so ? Because I set a new goal for myself -> [A new goal <-](./actual-target.
   </tbody>
 </table>
 
-
-[<< Back to home page](../README.md)
-<br><br>
+<table style="border: 0">
+<tbody>
+  <tr>
+    <td><a href="https://github.com/PawelBugiel"><< Back to home page</a></td>
+    <td><a href="#My-computer-passion">^ Go to the top of page ^</a></td>
+  </tr>
+</tbody>
+</table>
 &#169; All rights and lefts reserved ;)
 <br>
 Partly⛅Cloudy™ ;)

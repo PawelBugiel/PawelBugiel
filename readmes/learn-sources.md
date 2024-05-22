@@ -1,4 +1,4 @@
-[<< Back to home page](../README.md)
+[<< Back to home page](https://github.com/PawelBugiel)
 
 ### People who taught me the most
 
