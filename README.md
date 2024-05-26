@@ -1,5 +1,7 @@
 <h4 id="top-of-this-page">  Read about me </h4>
 
+![](https://komarev.com/ghpvc/?username=your-github-pawelbugiel&label=PROFILE+VIEWS)
+
 1. [Computer passion](./readmes/my-computer-passion.md) - A short story about my computer passion.
 <br><br>
 2. [Learn sources](./readmes/learn-sources.md) - Learning sources of my choice .
