@@ -4,7 +4,7 @@
 <br><br>
 2. [Learn sources](./readmes/learn-sources.md) - Learning sources of my choice .
 <br><br>
-3. [Actual target](./readmes/actual-target.md) - what I want to achieve for now. 
+3. [Actual target](./readmes/actual-goal) - what I want to achieve for now. 
 
 <details>
 

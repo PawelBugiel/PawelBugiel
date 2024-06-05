@@ -19,7 +19,7 @@ Below are selected parts of my life through which I want to briefly describe mys
 
 - chętnie sam rozbudowywałem PC i budowałem je od podstaw
 - konfigurowałem małe sieci LAN (epizodycznie)
-- rozwiązywałem problemy sprzętowe i systemowe w czasach boomu na PC – swoje, rodziny, znajomych, znajomych znajomych
+- rozwiązywałem problemy sprzętowe i programowe w czasach boomu na PC – swoje, rodziny, znajomych, znajomych znajomych
 - zawsze sam szczegółowo wybieram komputer osobisty
 
   <br>
@@ -28,18 +28,16 @@ Below are selected parts of my life through which I want to briefly describe mys
 
 - zarówno rastrowa - Corel PhotoPaint, Adobe PhotoShop, Gimp, MS Paint
 - wektorowa - Corel Draw
-- prezentacje, montaż video – DaVinci Resolve, Power Point
+- prezentacje, montaż video – DaVinci Resolve, MS Power Point
 - animacje : Corel PhotoPaint, 3DS Max Studio, Blender
 - jak i modelowanie 3D - od Vue d’Esprit, przez Terragen, Maya, ZBrush, 3DS Max Studio, po opensource-owy Blender
 
 *Tu dodam kilka słów.*<br>
 *W grafice 3D najbardziej interesuje mnie to jak stworzyć poprawny, łatwo modyfikowalny model trójwymiarowy, jak
 rozwiązywać problemy topologiczne, „konstrukcyjne”. <br>
-Tak więc najczęściej zajmowały mnie: vertex, edge, polygony, unikanie ngon-ów i pole-sów, quadyfikacja, face, normal,
-edge loopy.<br>
-Aspekt wizualny - kolory, światła, cienie, teksturowanie, kompozycja – poznałem z grubsza, żeby wiedzieć jak to
-ewentualnie wykonać. <br>
-Raczej nie jestem osobą obdarzoną zmysłem estetycznym.
+Tak więc najczęściej zajmowały mnie: vertex, edge, polygony, unikanie ngon-ów i pole-sów, quadyfikacja, face, normal, edge loopy i tym podobne. <br>
+Aspekt wizualny - kolory, światła, cienie, teksturowanie, kompozycja – poznałem z grubsza, żeby wiedzieć jak to ewentualnie wykonać. <br>
+Raczej nie jestem osobą obdarzoną wyjątkowym zmysłem estetycznym.
 <br><br>
 Ponadto dodam, że <br>
 znajduję wiele tych samych lub bardzo zbliżonych konceptów w tworzeniu trójwymiarowych projektów graficznych
@@ -52,7 +50,7 @@ Okej. No to teraz dalej.*
 
 - na samym początku z czystej ciekawości
 - później nadal z ciekawości - łączenie HTML, DHTML, CSS z grafiką komputerową
-- później w szkołach i na studiach, tym razem już bardziej poważnie
+- później w szkole policealnej i na studiach, tym razem już bardziej poważnie
 - następnie łączenie Pythona z programem Blender 3D, aby uzyskać dodatkowe autorskie funkcjonaloności - faktyczne
   praktyczne wykorzystywanie programowania na własny użytek
 - aż do obecnego zainteresowania programowaniem w kontekście biznesowym – od brania udziału w tworzeniu nowych
@@ -62,14 +60,13 @@ Okej. No to teraz dalej.*
 
 > #### Other contexts of computer use
 
-- do znudzenia ustawiałem wszelkie telewizory, dekodery satelitarne, magnetowidy i tym podobne sprzęty u rodziny
+- niezliczoną ilość razy ustawiałem wszelkie telewizory, dekodery satelitarne, magnetowidy i tym podobne sprzęty u rodziny
 - eksperymentalnie bawiłem się programami do tworzenia muzyki : Fast Tracker, FruityLoops
 - ms dos i inne CLI były fajne, bo trzeba było pamiętać komendy
 - interesował mnie rejestry Windows,
 - instalowałem i używałem systemy Windows od wersji 3.11
 - instalowałem i używałem Linux ( mało, to dopiero przede mną )
-- doświadczanie z AI od początku udostępnienia okienkowej wersji chat GPT - listopad 2022. Testowanie możliwości,
-  użyteczności, wykorzystania do celów prywatnych i komercyjnych.
+- doświadczanie z AI od początku udostępnienia okienkowej wersji chat GPT - listopad 2022. Testowanie możliwości, użyteczności, wykorzystania do celów prywatnych i komercyjnych.
 - ostatnie ciekawe dla mnie AI to Google Gemini
 
 <br>
@@ -82,7 +79,7 @@ komuś z czymś – modelowanie obiektów użytkowych, retusz naprawianie zniszc
 <br><br>
 Natomiast tworzenie oprogramowania stawiam jako swój cel zawodowy.
 <br><br>
-Why so ? Because I set a new goal for myself -> [A new goal <-](./actual-target.md)
+Why so ? Because I have set a new goal for myself -> [A new goal <-](./actual-goal)
 <br>
 <br>
 
@@ -153,7 +150,8 @@ Why so ? Because I set a new goal for myself -> [A new goal <-](./actual-target.
       <td>School internships</td>
       <td>
         <ul>
-          <li>Creation of the first official website for Primary School No. 28 in Wodzisław Śląski. It was officially deployed on the server by the school's IT specialist.  Initiative was mine and the project was built from scratch, mostly in a Windows Notepad, because I liked to memorizing the syntax.</li>
+          <li>Creation of the first official website for Primary School No. 28 in Wodzisław Śląski. It was officially deployed on a server by the school's IT specialist.  <br> 
+            Initiative was mine and the project was built from scratch, mostly in a Windows Notepad, because I liked to memorizing the syntax.</li>
         </ul>
       </td>
     </tr>
@@ -188,7 +186,7 @@ Why so ? Because I set a new goal for myself -> [A new goal <-](./actual-target.
       <td>At work</td>
       <td>
         <ul>
-        <li>Moving from paper and semi-automatic spreadsheets, through Excel macros, temporary "cloud" solutions, to cooperation with programmers in order to create better solutions for the company's business goals</li>
+        <li>Moving from paper documents and semi-automatic spreadsheets, through Excel macros, temporary "cloud" solutions, to cooperation with programmers and database specialists in order to create better solutions for the company's business goals</li>
         </ul>
       </td>
     </tr>
@@ -203,7 +201,7 @@ Why so ? Because I set a new goal for myself -> [A new goal <-](./actual-target.
           <br>
           <li>XML, HTML, CSS rarely used for small configuration files or documents</li>
           <br>
-          <li>Python – small scripts to create your own functionalities in Blender, for modeling 3D graphics. I didn't learn Python.</li>
+          <li>Python – small scripts to create my own functionalities in Blender, for modeling 3D graphics. I didn't learn Python.</li>
         </ul>
       </td>
     </tr>

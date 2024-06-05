@@ -18,7 +18,7 @@
       <br><br>
 
 - [Mama Samba Briama Djalo aka Nelson (AmigosCode)](https://www.amigoscode.com/)
-    - Along with the great content, Nelson provides some of the best diagrams.
+    - Along with the great content, Nelson provides some of the best diagrams, learn road maps. 
       <br><br>
 
 - [Ranga Karanam (in28Minutes)](https://www.in28minutes.com/)
@@ -32,7 +32,7 @@
       <br><br>
 
 - [Chad Darby (Luv2Code)](https://luv2code.com/)
-    - a decent content, provided in a simple way
+    - a good content, presented in a simple way. Chad combine speech with a lot of nice prepared slides.
 
 ### Chosen books I have read or are currently reading
 
