@@ -2,11 +2,11 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-pawelbugiel&label=PROFILE+VIEWS)
 
-1. [Computer passion](./readmes/my-computer-passion.md) - A short story about my computer passion.
+1. [My computer passion](./readmes/my-computer-passion.md) - A short story about my computer passion.
 <br><br>
 2. [Learn sources](./readmes/learn-sources.md) - Learning sources of my choice .
 <br><br>
-3. [Actual target](./readmes/actual-goal) - what I want to achieve for now. 
+3. [My actual goal](./readmes/actual-goal) - what I want to achieve for now. 
 
 <details>
 
