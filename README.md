@@ -1,16 +1,12 @@
-<h4 id="top-of-this-page">  Read about me </h4>
+<h4 id="top-of-this-page">  About me </h4>
 
 ![](https://komarev.com/ghpvc/?username=your-github-pawelbugiel&label=PROFILE+VIEWS)
 
-1. [My computer passion](./readmes/my-computer-passion.md) - A short story about my computer passion.
-<br><br>
-2. [Learn sources](./readmes/learn-sources.md) - Learning sources of my choice .
-<br><br>
-3. [My actual goal](./readmes/actual-goal) - what I want to achieve for now. 
+1. [My computer passion](./readmes/my-computer-passion.md) - a short story about my computer passion.
+2. [My actual career goal](./readmes/actual-goal.md) - what I want to achieve for now
 
 <details>
-
-<summary>Technologies, tools </summary>
+<summary>Technologies, tools</summary>
 
 <img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/java_6x3.png?raw=true" alt="Java" width="11%">
 <img src="https://github.com/PawelBugiel/md_test/blob/main/.idea/resources/spring_6x3.png?raw=true" alt="Spring Boot" width="11%">
@@ -34,10 +30,5 @@
 
 </details>
 
-<table border="0">
-    <tr>
-        <td><a href="#top-of-this-page">^ Go to the top of the page ^</a></td>
-        <td>&#169; All rights and lefts reserved ;)</td>
-        <td>Partly⛅Cloudy™ ;)</td>
-    </tr>
-</table>
+
+<a href="#top-of-this-page" style="text-align: center;">- Go to the top of the page -</a>

@@ -3,88 +3,65 @@
 <h4 id="top-of-this-page"> My computer passion </h4>
 
 [1. Intro](#Intro)  
-[2. Computer hardware](#Computer-hardware)  
-[3. Computer graphic](#Computer-graphic)  
-[4. Computer programming](#Computer-programming)  
-[5. Other contexts of computer use](#Other-contexts-of-computer-use)  
-[6. A decision](#A-decision)  
-[7. Some chronological details](#Some-chronological-details)
+[2. Hardware](#Hardware)  
+[3. Grafika komputerowa](#Grafika-komputerowa)  
+[4. Programowanie komputerowe](#Programowanie-komputerowe)  
+[5. Inne](#Inne)  
+[6. Decyzja](#Decyzja)  
 
 #### Intro
 
-Below are selected parts of my life through which I want to briefly describe myself.
+Poniżej przedstawiam moje doświadczenia z komputerami, które ukształtowały moją pasję. 
+<br>
+
+> #### Hardware
+
+Interesuję się budową i konfiguracją sprzętową, choć nie jest to moja główna pasja. Zajmuję się tym raczej sporadycznie, kiedy zajdzie taka potrzeba.
 <br><br>
-
-> #### Computer hardware
-
-- chętnie sam rozbudowywałem PC i budowałem je od podstaw
-- konfigurowałem małe sieci LAN (epizodycznie)
-- rozwiązywałem problemy sprzętowe i programowe w czasach boomu na PC – swoje, rodziny, znajomych, znajomych znajomych
-- zawsze sam szczegółowo wybieram komputer osobisty
-
+Kiedyś, rozbudowywałem PC lub budowałem je od podstaw, dobierając i montując poszczególne komponenty.
+<br><br>
+Obecnie zainteresowanie sprzętem ogranicza się do samodzielnego wybierania specyfikacji sprzętowej komputera osobistego, szczegółowo porównując istotne dla zastosowań parametry poszczególnych podzespołów. 
+<br>
+Lubię również dobierać różne sprzęty, które razem tworzą spójny, dopasowany do moich potrzeb, zestaw. Doceniam istotne nowości techniczne i co jakiś czas odświeżam swój sprzęt. 
   <br>
 
-> #### Computer graphic
+> #### Grafika komputerowa
 
-- zarówno rastrowa - Corel PhotoPaint, Adobe PhotoShop, Gimp, MS Paint
-- wektorowa - Corel Draw
-- prezentacje, montaż video – DaVinci Resolve, MS Power Point
+Znana mi są sposoby przetwarzania obrazu i modelowania 3D:
+- grafika rastrowa - Corel PhotoPaint, Adobe PhotoShop, Gimp, MS Paint
+- grafika wektorowa - Corel Draw
+- prezentacje - MS Power Point
+- montaż video – DaVinci Resolve
 - animacje : Corel PhotoPaint, 3DS Max Studio, Blender
-- jak i modelowanie 3D - od Vue d’Esprit, przez Terragen, Maya, ZBrush, 3DS Max Studio, po opensource-owy Blender
+- modelowanie 3D - Vue d’Esprit, Terragen, Maya, ZBrush, 3DS Max Studio, opensource-owy Blender. 
 
-*Tu dodam kilka słów.*<br>
-*W grafice 3D najbardziej interesuje mnie to jak stworzyć poprawny, łatwo modyfikowalny model trójwymiarowy, jak
-rozwiązywać problemy topologiczne, „konstrukcyjne”. <br>
-Tak więc najczęściej zajmowały mnie: vertex, edge, polygony, unikanie ngon-ów i pole-sów, quadyfikacja, face, normal, edge loopy i tym podobne. <br>
-Aspekt wizualny - kolory, światła, cienie, teksturowanie, kompozycja – poznałem z grubsza, żeby wiedzieć jak to ewentualnie wykonać. <br>
-Raczej nie jestem osobą obdarzoną wyjątkowym zmysłem estetycznym.
+*Tu dodam kilka słów na temat modelowania.*
 <br><br>
-Ponadto dodam, że <br>
-znajduję wiele tych samych lub bardzo zbliżonych konceptów w tworzeniu trójwymiarowych projektów graficznych
-jak w tworzeniu aplikacji programistycznych – struktura projektu, obiekty typu boolean, "obiekty abstrakcyjne”,
-dziedziczenie, biblioteki zewnętrzne, parametryzacja obiektów, modułowość, model reuse, frameworki. <br>
+*Tworzone przeze mnie projekty 3D wykorzystywałem głównie do prezentacji, planowania zagospodarowania przestrzeni domowych, magazynowych, produkcyjnych, projektowania mebli kuchennych, a rzadziej, ale również animacji.*
+<br><br>
+*Najczęściej zajmowały mnie poniższe zagadnienia:*<br><br>
+*1. organizacja samego projektu, gdzie kluczowe role odgrywały przykładowo: podział na warstwy i widoki, hierarchia obiektów, kolekcje, nazewnictwo, wersjonowanie.*<br>
+*2. przygotowanie modeli 3D, które cechowały między innymi: możliwość łatwej modyfikacji, optymalna topologia siatki, zastosowane modyfikatory pozwalające na redukcję powtarzalności czynności wykonywanych podczas modelowania.*
+
+*Aspekty wizualne jak kolory, światła, cienie, teksturowanie, kompozycja – poznałem z grubsza, żeby wiedzieć, jak to technicznie wykonać.* <br>
+<br>
+*Ponadto dodam, że znajduję wiele tych samych lub bardzo zbliżonych pojęć w tworzeniu trójwymiarowych projektów graficznych
+jak w tworzeniu aplikacji programistycznych – struktura projektu, obiekty typu boolean, "obiekty abstrakcyjne”, dziedziczenie, biblioteki zewnętrzne, parametryzacja obiektów, modułowość, tworzenie bibliotek, frameworki. <br><br>
 Okej. No to teraz dalej.*
-<br><br>
+<br>
+> #### Programowanie komputerowe
 
-> #### Computer programming
+Zainteresowanie programowaniem wynika u mnie z naturalnej ciekawości, chęci poznawania, jak i zamiłowania do wykorzystywania oprogramowania na różne sposoby. Moja przygoda z programowaniem ewoluowała w kilku etapach:
 
-- na samym początku z czystej ciekawości
-- później nadal z ciekawości - łączenie HTML, DHTML, CSS z grafiką komputerową
-- później w szkole policealnej i na studiach, tym razem już bardziej poważnie
-- następnie łączenie Pythona z programem Blender 3D, aby uzyskać dodatkowe autorskie funkcjonaloności - faktyczne
-  praktyczne wykorzystywanie programowania na własny użytek
-- aż do obecnego zainteresowania programowaniem w kontekście biznesowym – od brania udziału w tworzeniu nowych
-  funkcjonalności w obecnej pracy, po chęć przebranżowienia się. <br>  Praca w obecnej firmie tylko dolała oliwy do
+- na samym początku, zafascynowany możliwościami, eksplorowałem podstawy programowania dla zabawy
+- później łączyłem HTML, DHTML, CSS z grafiką komputerową
+- w szkole policealnej i na studiach programowanie stało się bardziej poważne i zaawansowane 
+- Następnie, aby uzyskać dodatkowe autorskie funkcjonalności, łączyłem Pythona z Blenderem 3D i zacząłem wykorzystywać programowanie w praktycznych projektach
+- obecne koncentruję się na programowaniu w kontekście biznesowym – od tworzenia nowych funkcjonalności w obecnej pracy, po chęć przebranżowienia się. Praca w obecnej firmie tylko dolała oliwy do
   ognia :)
   <br> <br>
 
-> #### Other contexts of computer use
-
-- niezliczoną ilość razy ustawiałem wszelkie telewizory, dekodery satelitarne, magnetowidy i tym podobne sprzęty u rodziny
-- eksperymentalnie bawiłem się programami do tworzenia muzyki : Fast Tracker, FruityLoops
-- ms dos i inne CLI były fajne, bo trzeba było pamiętać komendy
-- interesował mnie rejestry Windows,
-- instalowałem i używałem systemy Windows od wersji 3.11
-- instalowałem i używałem Linux ( mało, to dopiero przede mną )
-- doświadczanie z AI od początku udostępnienia okienkowej wersji chat GPT - listopad 2022. Testowanie możliwości, użyteczności, wykorzystania do celów prywatnych i komercyjnych.
-- ostatnie ciekawe dla mnie AI to Google Gemini
-
-<br>
-
-> #### A decision
-
-Jakiś czas temu podjąłem decyzję, że grafiką komputerową zajmować się będę hobbystycznie, w ramach relaksu czy pomocy
-komuś z czymś – modelowanie obiektów użytkowych, retusz naprawianie zniszczonych zdjęć, modyfikacje modeli do wydruków
-3D.
-<br><br>
-Natomiast tworzenie oprogramowania stawiam jako swój cel zawodowy.
-<br><br>
-Why so ? Because I have set a new goal for myself -> [A new goal <-](./actual-goal)
-<br>
-<br>
-
-
-> #### Some chronological details
+Poniższa tabela ilustruje szczegółowo moje doświadczenia i osiągnięcia w dziedzinie programowania na przestrzeni lat.
 
 <table>
   <thead>
@@ -207,7 +184,7 @@ Why so ? Because I have set a new goal for myself -> [A new goal <-](./actual-go
     </tr>
     <tr>
       <td>2023 until now</td>
-      <td>Laptop <br> CPU : Intel Core i7-13700H 2,4 GHz <br>14 cores <br> RAM : 16GB DDR5</td>
+      <td>Laptop <br> CPU : Intel Core i7-13700H 2,4 GHz <br>14 cores <br> RAM : 32GB DDR5</td>
       <td>Java <br> Spring <br> Spring Boot <br> Hibernate <br> Lombok <br> SQL <br> JSON <br> Junit <br> Mockito <br> JavaScript <br> HTML <br> Markdown</td>
       <td>At home</td>
       <td>
@@ -223,14 +200,28 @@ Why so ? Because I have set a new goal for myself -> [A new goal <-](./actual-go
   </tbody>
 </table>
 
-<table border="0">
-    <tr>
-        <td><a href="https://github.com/PawelBugiel/PawelBugiel/blob/main/README.md"><< Back to home page</a></td>
-        <td><a href="#top-of-this-page">^ Go to the top of the page ^</a></td>
-        <td>&#169; All rights and lefts reserved ;)</td>
-        <td>Partly⛅Cloudy™ ;)</td>
-    </tr>
-</table>
+> #### Inne
+ 
+Inne doświadczenia:
+
+- angażowanie się w konfigurację i rozwiązywanie problemów z różnymi urządzeniami elektronicznymi, w tym telewizorami, dekoderami satelitarnymi, telefonami komórkowymi, odtwarzaczami i innymi sprzętami domowymi
+- eksperymentalne zabawy się programami do tworzenia muzyki : Fast Tracker, FruityLoops
+- praca z różnymi CLI, których w pewnych sytuacjach lubię używać
+- budowa i działanie systemów operacyjnych. Instalowałem i używałem systemy Windows od wersji 3.11. 
+- mniejsze doświadczenie mam z instalacją i używaniem Linuxa, aczkolwiek jestem w trakcie uzupełniania tej wiedzy
+- praca z AI od czasu udostępnienia okienkowej wersji chat GPT - listopad 2022. Testowanie możliwości, użyteczności, pisanie promptów, wykorzystywanie do celów prywatnych i komercyjnych.
+- najświeższe zainteresowanie związane z AI to Google Vertex AI oraz Google Gemini.
+
+<br>
+
+> #### Decyzja
+
+Jakiś czas temu podjąłem ważną dla mnie decyzję, aby zawodowo zająć się tworzeniem oprogramowania. I to stawiam jako swój główny cel zawodowy.
+Natomiast grafikę komputerową, która towarzyszy mi równie długo co programowanie, traktuję jako hobby, czy formę relaksu. 
+<br><br>
+Dlaczego tak ? Uzasadnienie swojej dycyzji umieszczam [tutaj](./actual-goal.md)
+<br><br>
+<a href="#top-of-this-page" style="text-align: center;">- Go to the top of the page -</a>
 
 
 
