@@ -1,6 +1,6 @@
 [<< Back to home page](https://github.com/PawelBugiel/PawelBugiel/blob/main/README.md)
 ***
-<h4 id="top-of-this-page"> Moja komputerowa pasja </h4>
+<h3 id="top-of-this-page"> Moja komputerowa pasja </h3>
 
 1. [Hardware](#Hardware)
 2. [Grafika komputerowa](#Grafika-komputerowa)
