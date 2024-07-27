@@ -50,6 +50,17 @@ Sądzę, że dobrym podejściem jest korzystanie z różnorodnych form nauki. Oc
 <br>
 Zdanie wyboru źródła też jest wyzwaniem, szczególnie kiedy zaczyna się swoją przygodę. 
 ***
+**Nauka z użyciem AI**
+<br>
+Mimo że ten sposób nauki zacząłem wykorzystywać w ostatniej kolejności, to wymieniam go najwcześniej, ponieważ wnosi przełomową rolę. 
+<br><br>
+W listopadzie 2022 roku pojawiła się okienkowa wersja ChatGPT 3.5, która od razu przykuła moją uwagę. Po początkowym wow postanowiłem wykorzystać ją do pracy na moją korzyść.
+Świetnie sprawdza się jako narzędzie łączące wszystkie inne metody nauki, które stosuję. Dzięki niej znacznie przyspieszyłem efektywność przyswajania wiedzy. 
+<br>  
+LLM służy mi jako swego rodzaju konsultant pomagający uzupełniać, doprecyzowywać lub wyjaśniać pojęcia uzyskane z innych źródeł. Świetne jest również to, że mogę tworzyć sposób prowadzenia konwersacji, dzięki czemu wszystko odbywa się w sposób dopasowany do moich indywidualnych potrzeb i oczekiwań.
+
+Nieraz przyszło mi spędzić wieczory na "rozmowach" ze LLM. Jest to niezwykle cierpliwy konsultant, odpowiadający na każde pytanie. 
+
 **Kursy Udemy i YouTube**
 <br>
 Dobrze przygotowany kurs pozwolił mi na zaznajomienie się z konkretnym zakresem wiedzy.  
@@ -119,15 +130,6 @@ Spośród mniej lub bardziej znanych wybrałem między innymi:
 * bezkoder.com
 * 1024kb.pl
 ***
-**Nauka z użyciem AI**
-<br>
-W listopadzie 2022 pojawiła się okienkowa wersja ChatGPT 3.5, która od razu przykuła moją uwagę. Po początkowym wow postanowiłem wykorzystać ją do pracy, dla swoich korzyści.
- Przyznaję, że świetnie sprawdza się jako warstwa łącząca wszystkie powyższe sposoby nauki.
-<br>  
-Osobiście służy mi ona jako swego rodzaju konsultant pomagający mi uzupełniać, doprecyzowywać lub wyjaśniać pojęcia uzyskane z innych źródeł. Świetne jest również to, że wszystko to dzieje się w sposób dopasowany do moich indywidualnych potrzeb.   
 
-Nieraz przyszło mi spędzić wieczory na "rozmowach" ze sztuczną inteligencją. Jest to niezwykle cierpliwy konsultant, odpowiadający na każde pytanie. 
-
-Nie twierdzę, że jest to idealna technologia, ale z pewnością mogę stwierdzić, że jest przełomowa. Cieszę się, że jestem tego częścią, że mogę brać w tym udział.
 ***
 <a href = "#top-of-this-page">- Go to the top of the page -</a>
