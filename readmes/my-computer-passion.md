@@ -15,7 +15,7 @@ Poniżej przedstawiam moje doświadczenia z komputerami, które ukształtowały 
 
 > #### Hardware
 
-Interesuję się budową i konfiguracją sprzętową komputerów, choć nie jest to moja główna pasja. Kiedyś poświęcałem na to więcej czasu, obecnie zajmuję się tym raczej sporadycznie, kiedy zajdzie taka potrzeba.
+Interesuję się budową i konfiguracją sprzętową komputerów, choć nie jest to moja główny kierunek. Kiedyś poświęcałem na to więcej czasu, obecnie zajmuję się tym raczej sporadycznie, kiedy zajdzie taka potrzeba.
 <br><br>
 Był czas, kiedy rozbudowywałem PC lub budowałem je od podstaw, dobierając i montując poszczególne komponenty.
 <br><br>
@@ -36,7 +36,7 @@ Znane mi są sposoby wytwarzania i przetwarzania:
 - prezentacje — MS Power Point
 - montaż video — DaVinci Resolve
 - animacje — Corel PhotoPaint, 3DS Max Studio, Blender
-- modelowanie 3D — Vue d’Esprit, Terragen, Maya, ZBrush, 3DS Max Studio, opensource-owy Blender.
+- modelowanie 3D — Vue d’Esprit, Terragen, Maya, ZBrush, 3DS Max Studio, Blender.
 
 Tu dodam kilka słów na temat modelowania.
 <br><br>
@@ -94,13 +94,13 @@ Poniższa tabela przedstawia szczegółowo moje doświadczenia i osiągnięcia w
       <td>W domu</td>
       <td>
         <ul>
-          <li>Poznanie pierwszego strukturalnego języka programowania</li>
+          <li>Doświadczenie pierwszego strukturalnego języka programowania</li>
           <br>
           <li>Pisanie prostych wersji kalkulatora</li>
           <br>
           <li>Doświadczenie dużego nakładu pracy, na stosunkowo niewielki efekt. Polegało to na uważnym przepisana kilku stron kodu, z książki o języku BASIC, linijka po linijce w czasie około dwóch godzin. Rezultatem było kilkanaście pikseli przypominających kształtem twarz, która poruszała się w linii prostej, trajektorią od górnego lewego narożnika ekranu do dolnego prawego rogu. Przybliżony czas animacji: 3 sekundy.</li>
           <br>
-          <li>Utrwalenie napisanej aplikacji na taśmie magnetycznej. Napisałem krótką aplikację zawierającą wiadomość, a następnie zapisałem ją na kasecie z taśmą magnetyczną. Adresatem był mój znajomy. Kaseta przekazana została z rąk do rąk. Niestety nie pamiętam czy udało się ją odtworzyć u kolegi.</li>
+          <li>Utrwalenie napisanej aplikacji na taśmie magnetycznej. Napisałem krótką aplikację zawierającą wiadomość, a następnie zapisałem ją na kasecie z taśmą magnetyczną. Adresatem był mój znajomy. Kaseta przekazana została z rąk do rąk.</li>
           <br>
           <li>Odkrycie kombinacji klawiszy na klawiaturze, która pozwalała na przerwanie wykonywania gry z możliwością wglądu do kodu źródłowego. Przeglądałem kod i modyfikowałem te jego części, które wówczas byłem w stanie zidentyfikować. Później możliwe było ponowne uruchomienie gry i podziwianie efektów. Sposób ten działał tylko w niektórych grach.</li>
           <br>
