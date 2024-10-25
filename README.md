@@ -1,11 +1,12 @@
-<h3 id="top-of-this-page">  Informacje o mnie </h3>
+<h3 id="top-of-this-page">  O mnie </h3>
 
-Witam!
+Witam.  
 
-Na tej stornie przedstawiam informacje dotyczące mojej pasji do technologii komputerowych, która prowadzi mnie przez różne doświadczenia oraz kształtuje moje życie zawodowe.  
-Opisany jest również mój aktualny cel — rozwijanie umiejętności w tworzeniu oprogramowania w języku Java.
+Od wielu lat pasjonuję, bawię, uczę się technologii komputerowych. Zarówno tych soft jak i hardware’owych.  
+Pasja ta nie słabnie, rozwija się i przybiera różne formy.  
+Aktualnie w moim życiu znajduję się w punkcie, w którym chcę zawodowo, profesjonalnie zajmować się tworzeniem oprogramowania.  
+Więcej informacji znaleźć można na zlinkowanych poniżej stronach. 
 
-Więcej informacji można znaleźć pod poniższymi linkami:
 
 1. [Moja komputerowa pasja](./readmes/my-computer-passion.md)
 <br><br>
