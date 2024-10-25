@@ -6,11 +6,10 @@
 2. [Droga do celu](#Droga-do-celu)
 3. [Źródła wiedzy](#Źródła-wiedzy)
 
-
 > #### Cel
 
-Moim aktualnym celem zawodowym jest tworzenie oprogramowania. Drogę tę chcę rozpocząć od udziału w projektach wykorzystujących język Java.  
-Cel ten wynika z poniższego krótkiego podsumowania. 
+Jestem początkującym programistą. Obecnie skupiam się na samorozwoju związanym głównie z programowaniem wykorzystującym języka Java. Jestem otwarty na naukę i różne technologie.  Chcę podjąć pracę w komercyjnym projekcie, dzięki któremu będę mógł w pełni poświęcić się zagadnieniom programistycznym i developerskim.  Jestem otwarty na naukę i stale poszerzam swoją wiedzę technologiczną. Jedyne czego na tę chwilę potrzebuję to wciągnięcia się w wir pracy. Wyczekuję czasu kiedy będę mógł zaangażować się w nowe wyzwania.
+
 ___
 
 Patrząc na swoje życie, z perspektywy pasjonowania się komputerami, doszedłem do wniosku, że co jakiś czas potrzebne było mi programowanie, w takiej czy innej formie. To ono dostarcza mi największą dozę kreatywności, elastyczności, możliwości tworzenia czegoś, co działa zgodnie z określonymi potrzebami. To programowanie przynosi mi najwięcej realnych korzyści, o czym przekonałem się wielokrotnie.  
@@ -29,7 +28,7 @@ Jestem otwarty na wyzwania, naukę i gotowy na zaangażowanie się w pracę.
 > #### Droga do celu
 
 Początkowo chciałem szybko nauczyć się składni Javy i od razu wskoczyć w branżę. Jednak pojawiały się zagadnienia, wobec których mój charakter nie pozwalał mi przejść ze zbyt dużą dozą abstrakcji.  
-To przekonało mnie do tego, aby dać sobie więcej czasu na szersze i głębsze zapoznanie się koncepcjami związanymi z tworzeniem programowania. Chciałem być możliwie jak najbardziej świadomy tego, co i skąd się bierze, z czym się łączy, od czego zależy, z czego wynika.
+To przekonało mnie do tego, aby dać sobie więcej czasu na szersze i głębsze zapoznanie się koncepcjami związanymi z tworzeniem programowania. Chciałem być możliwie jak najbardziej świadomy tego co i skąd się bierze, z czym się łączy, od czego zależy, z czego wynika.
 <br>Posiadanie odpowiednio szerokiego horyzontu rozumienia tego, co się wykonuje, w moim mniemaniu zaowocuje późniejszym, mądrzejszym sposobem podchodzenia do wykonywanej pracy.
 
 Jak się okazuje, to nie jest takie łatwe. 
@@ -42,20 +41,19 @@ Niejednokrotnie ilość wiedzy "przygniatała" mnie. Często zapędzałem się w
 Zdaję sobie sprawę, że część informacji, które chłonąłem, uleciała, natomiast z drugiej strony sądzę, że to, co utrwaliło się we mnie oraz długi czas, jaki poświeciłem na sprawdzaniu siebie w tej nowej roli, zmienił na stałe niektóre z moich sposobów myślenia, patrzenia na świat.
 
 Dziś z perspektywy czasu sądzę, że nie ma idealnego sposobu nauki programowania. Istnieje wiele zależności, zmiennych. Ważna jest wytrwałość.
-Raczej nie mogę powiedzieć, że jest to najlepszy sposób na naukę i nie będę go rekomendował.
 
-> #### Źródła wiedzy
+> #### Źródła wiedzy, metody nauki
 
-Sądzę, że dobrym podejściem jest korzystanie z różnorodnych form nauki. Oczywiście każda z nich ma swoje korzyści i ograniczenia. 
+Sądzę, że dobrym podejściem jest korzystanie z różnorodnych form nauki. Oczywiście każda z nich ma swoje wady i zalety. Jednakże dopowiednia ich kombinacja, dopasowana do personalnych potrzeb, może zaowocować. 
 <br>
-Zdanie wyboru źródła też jest wyzwaniem, szczególnie kiedy zaczyna się swoją przygodę. 
+Wyboru źródeł nauki też jest niełatwym wyzwaniem. Szczególnie kiedy zaczyna się swoją przygodę, a źródeł jest ogrom. 
 ***
 **Nauka z użyciem AI**
 <br>
 Mimo że ten sposób nauki zacząłem wykorzystywać w ostatniej kolejności, to wymieniam go najwcześniej, ponieważ wnosi przełomową rolę. 
 <br><br>
 W listopadzie 2022 roku pojawiła się okienkowa wersja ChatGPT 3.5, która od razu przykuła moją uwagę. Po początkowym wow postanowiłem wykorzystać ją do pracy na moją korzyść.
-Świetnie sprawdza się jako narzędzie łączące wszystkie inne metody nauki, które stosuję. Dzięki niej znacznie przyspieszyłem efektywność przyswajania wiedzy. 
+Świetnie sprawdza się jako warstwa łącząca wszystkie inne metody nauki, które stosuję. Dzięki niej znacznie przyspieszyłem efektywność przyswajania wiedzy. 
 <br>  
 LLM służy mi jako swego rodzaju konsultant pomagający uzupełniać, doprecyzowywać lub wyjaśniać pojęcia uzyskane z innych źródeł. Świetne jest również to, że mogę tworzyć sposób prowadzenia konwersacji, dzięki czemu wszystko odbywa się w sposób dopasowany do moich indywidualnych potrzeb i oczekiwań.
 
