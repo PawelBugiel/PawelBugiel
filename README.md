@@ -8,9 +8,9 @@ Aktualnie w moim życiu znajduję się w punkcie, w którym chcę zawodowo, prof
 Więcej informacji znaleźć można na zlinkowanych poniżej stronach. 
 
 
-1. [Moja komputerowa pasja](./readmes/my-computer-passion.md)
+1. [Komputerowa pasja](./readmes/my-computer-passion.md)
 <br><br>
-2. [Mój aktualny cel zawodowy](./readmes/actual-goal.md) — cel zawodowy, droga prowadząca do niego oraz wykorzystywane źródła wiedzy
+2. [Aktualny cel zawodowy](./readmes/actual-goal.md)
 <br><br>
 ***
 
